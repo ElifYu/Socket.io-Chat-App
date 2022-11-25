@@ -1,6 +1,6 @@
-# 💬 Chat App | Socket.io | Frontend - Backend 💬
+# 💬 Real time chat app (Flutter & Node.js & SocketIO) 💬
 
-Real time chat app (Flutter & Node.js & SocketIO)
+Web and app compatible Real-time chat app with Flutter 🤩
 
 
 <p float="left">
