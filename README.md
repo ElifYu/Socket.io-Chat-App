@@ -1,4 +1,4 @@
-💬 Chat App | Socket.io | Frontend - Backend 💬
+# 💬 Chat App | Socket.io | Frontend - Backend 💬
 
 Real time chat app (Flutter & Node.js & SocketIO)
 
