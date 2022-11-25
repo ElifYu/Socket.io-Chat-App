@@ -5,8 +5,8 @@ A new Flutter project.
 
 <p float="left">
   
- <img src="https://github.com/ElifYu/Socket.io-Chat-App/blob/main/assets/video-gif.gif" width="25%"/>
-    <img src="https://github.com/ElifYu/Socket.io-Chat-App/blob/main/assets/photo1.png" width="25%"/>
+ <img src="https://github.com/ElifYu/Socket.io-Chat-App/blob/main/assets/video-gif.gif" width="40%"/>
+    <img src="https://github.com/ElifYu/Socket.io-Chat-App/blob/main/assets/photo1.png" width="40%"/>
    
 </p>
 
