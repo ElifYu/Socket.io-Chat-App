@@ -1,6 +1,6 @@
 # 💬 Real time chat app (Flutter & Node.js & SocketIO) 💬
 
-Web and app compatible Real-time chat app with Flutter 🤩
+# Web and app compatible Real-time chat app with Flutter 🤩
 
 
 <p float="left">
