@@ -1,6 +1,6 @@
-# socketio_chat_app
+💬 Chat App | Socket.io | Frontend - Backend 💬
 
-A new Flutter project.
+Real time chat app (Flutter & Node.js & SocketIO)
 
 
 <p float="left">
